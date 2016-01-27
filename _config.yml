@@ -1,0 +1,28 @@
+name: Metalholic
+favicon: null
+layout_spectrum: 0.09023416158743203
+typography_spectrum: 0.75174545426853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5610748690087348
+  lightness: 0.5626572747714818
+  saturation: 0.5071825664490461
+  rhythmicContrast: 0.7041004046332091
+purpose: []
